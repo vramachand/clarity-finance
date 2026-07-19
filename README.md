@@ -1,5 +1,1 @@
 # clarity-finance
-
-ANTHROPIC API KEY
-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
-
